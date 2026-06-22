@@ -53,8 +53,7 @@ If you use this measure, the code, or the data in your own work, please cite the
 | SSP-SP | Geocoded cellphone theft and robbery records |
 
 ## License
-
-*(Add a license — e.g. MIT for code, CC-BY for data — once decided.)*
+All data is open-source.
 
 ## Contact
 
