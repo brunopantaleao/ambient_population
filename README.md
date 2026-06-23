@@ -32,10 +32,10 @@ The ambient population estimates for São Paulo will be released here as a shape
 If you use this measure, the code, or the data in your own work, please cite the paper:
 
 ```bibtex
-@article{becker_ambient_population,
+@article{beckerambientpop,
   title   = {Estimating Ambient Population from Telecommunications Infrastructure with Applications to Crime in São Paulo, Brazil},
   author  = {Becker, João Luiz and Correia, J. P. and Francisco, Eduardo and Pantaleão, Bruno and Speicys, Roberto},
-  journal = {Working Paper},
+  journal = {BALAS 2026 Annual Conference},
   year    = {2026}
 }
 ```
